@@ -47,5 +47,8 @@ Please refer to ```RNN_toy.py``` for the code.
     This is also known as Bahdanau Attention. 
 
 ### 4. Batch size & Epochs
-    Batch size was set to 32. Epoch was set to 40. 
-
+    Batch size was set to 32. Epoch was set to 40.
+    
+### 5. Saving the Model 
+    The model will be saved in the directory './training_checkpoints", which will be generated when the code is run.
+    
